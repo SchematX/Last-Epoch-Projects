@@ -15,6 +15,7 @@ Please, get involved using the navigation above this area to help guide you to t
 ## SchematX's - Last Epoch Filters
 ### Loot Filters for Last Epoch
 
+Please head too: [Loot Filters Basic Guide](https://forum.lastepoch.com/t/a-basic-guide-on-how-loot-filter-works-and-how-to-set-up-your-own-loot-filter/25389) written by Heavy before you get started, so you will know the basic nerdy talk in which is extreamly fairly simple.
 
 To install these loot filters manually or create your own using a notepad or [MS Code](https://code.visualstudio.com), 
 - head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
