@@ -28,14 +28,21 @@ To install these loot filters manually or create your own using a notepad or [MS
 ## In-Game Terms
 ### Terms often used socially
 
-| Abbreviation/Terms | Definition | 
-| -------- | -------- | -------- |
-| AoE     | **area of effect**     | - | DCD     | **defensive cooldown**     | 
-| BiS     | **best in slot**: refers to optimal gear or item modifications     | - | DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage     | 
-| CC     | **crowd control** (e.g., stun)     | - | HoT     | **healing over time**     | 
-| DPS     | **damage per second**     | - | HPS     | **healing per second**     | 
-| GCD     | **global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD     | - | LoS     | **line of sight**     | 
-| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) 
+
+| Abbreviation/Terms | Definition |
+| ------------- |:-------------:|
+| AoE     |**area of effect**     |
+| DCD     |**defensive cooldown**     |
+| BiS     |**best in slot**: refers to optimal gear or item modifications      |
+| DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage  |
+| CC     |**crowd control** (e.g., stun)  |
+| DPS     |**damage per second**      |
+| HPS     |**healing per second* |
+|--|--|
+| GCD     |**global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD  |
+| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) |
+
+
 
 
 ## How to Install Loot Filters
@@ -64,6 +71,7 @@ To copy and past a loot filter:
             <EquipmentType>CATALYST</EquipmentType>
             <EquipmentType>SHIELD</EquipmentType>
           </type>
+          
 This is a short code in which the loot filters you copy or create either way, will be longer, I just made it smaller since it would be a lot of coding. Just copy the code, head back in-game and choose the **+** button to create the loot filter.
 - Next, you would just select "**Past Clipboard Contents**" and you done! It will then begin to populate the code you have copied and your good to go.
 
