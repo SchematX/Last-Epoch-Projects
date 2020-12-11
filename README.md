@@ -7,7 +7,7 @@
 Thank you for checking out my repo here. Take a look around, chances are, the reasons your here is because your either curious or it has something to do with [Last Epoch](https://lastepoch.com) which is "An upcoming hack and slash action role-playing game developed by American studio Eleventh Hour Games."
 
 Here, you will find some things that are extremely helpful to my friends and I. So I share them here with you!
-Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/TemperBunnys-LastEpochFilters/discussions).
+Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/Last-Epoch-Projects/discussions).
 
 
 
