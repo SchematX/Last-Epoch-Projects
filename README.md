@@ -23,28 +23,6 @@ To install these loot filters manually or create your own using a notepad or [MS
 - Fire up Last Epoch and head to your options folder or press shift+f and your done!
 
 
------
-
-## In-Game Terms
-### Terms often used socially
-
-
-| Abbreviation/Terms | Definition |
-| ------------- |:-------------:|
-| AoE     |**area of effect**     |
-| DCD     |**defensive cooldown**     |
-| BiS     |**best in slot**: refers to optimal gear or item modifications      |
-| DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage  |
-| CC     |**crowd control** (e.g., stun)  |
-| DPS     |**damage per second**      |
-| HPS     |**healing per second* |
-|--|--|
-| GCD     |**global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD  |
-| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) |
-
-
-
-
 ## How to Install Loot Filters
 There are two ways you can install custom loot filters if and should you choose to do so without creating your own, which sometimes for some folks be a bit too much. So let me help you!
 
@@ -76,6 +54,26 @@ This is a short code in which the loot filters you copy or create either way, wi
 - Next, you would just select "**Past Clipboard Contents**" and you done! It will then begin to populate the code you have copied and your good to go.
 
 Something to keep in mind though is, if there should be an update to the loot filter itself, you will have to do the steps over again and delete the old. This method would probably be the easiest since its more of a ***copy and paste*** thing!
+
+
+-----
+
+## In-Game Terms
+### Terms often used socially
+
+
+| Abbreviation/Terms | Definition |
+| ------------- |:-------------:|
+| AoE     |**area of effect**     |
+| DCD     |**defensive cooldown**     |
+| BiS     |**best in slot**: refers to optimal gear or item modifications      |
+| DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage  |
+| CC     |**crowd control** (e.g., stun)  |
+| DPS     |**damage per second**      |
+| HPS     |**healing per second* |
+|--|--|
+| GCD     |**global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD  |
+| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) |
 
 
 ## SchematX's - Projects
