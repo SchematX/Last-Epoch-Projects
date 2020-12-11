@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SchematX/Last-Epoch-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome
+### All of SchematX's Projects
+![img](https://upload.wikimedia.org/wikipedia/en/6/63/Last_Epoch_logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Thank you for checking out my repo here. Take a look around, chances are, the reasons your here is because your either curious or it has something to do with [Last Epoch](https://lastepoch.com) which is "An upcoming hack and slash action role-playing game developed by American studio Eleventh Hour Games."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here, you will find some things that are extremely helpful to my friends and I. So I share them here with you!
+Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/Last-Epoch-Projects/discussions).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## SchematX's - Last Epoch Filters
+### Loot Filters for Last Epoch
 
-**Bold** and _Italic_ and `Code` text
+Please head too: [Loot Filters Basic Guide](https://forum.lastepoch.com/t/a-basic-guide-on-how-loot-filter-works-and-how-to-set-up-your-own-loot-filter/25389) written by [Heavy](https://forum.lastepoch.com/u/Heavy) before you get started, so you will know the basic nerdy talk in which is extreamly fairly simple.
 
-[Link](url) and ![Image](src)
-```
+To install these loot filters manually or create your own using a notepad or [MS Code](https://code.visualstudio.com), 
+- head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- create a .xml filter file from notepad and name it whatever you want like "MyFilter.xml"
+- Save it in the "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- Fire up Last Epoch and head to your options folder or press shift+f and your done!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## How to Install Loot Filters
+There are two ways you can install custom loot filters if and should you choose to do so without creating your own, which sometimes for some folks be a bit too much. So let me help you!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SchematX/Last-Epoch-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To **manually** install these loot filters:
+- head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- create a .xml filter file from notepad and name it whatever you want like "MyFilter.xml"
+- Save it in the "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- Fire up Last Epoch and head to your options folder or press shift+f and your done!
 
-### Support or Contact
+To copy and past a loot filter:
+- while in game, **hold ctrl** and press **F**
+- With your loot filter you've copied here which looks like this for a short example:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+            <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
+            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
+            <EquipmentType>WAND</EquipmentType>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>TWO_HANDED_POLEARM</EquipmentType>
+            <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
+            <EquipmentType>TWO_HANDED_SWORD</EquipmentType>
+            <EquipmentType>CATALYST</EquipmentType>
+            <EquipmentType>SHIELD</EquipmentType>
+          </type>
+          
+This is a short code in which the loot filters you copy or create either way, will be longer, I just made it smaller since it would be a lot of coding. Just copy the code, head back in-game and choose the **+** button to create the loot filter.
+- Next, you would just select "**Past Clipboard Contents**" and you done! It will then begin to populate the code you have copied and your good to go.
+
+Something to keep in mind though is, if there should be an update to the loot filter itself, you will have to do the steps over again and delete the old. This method would probably be the easiest since its more of a ***copy and paste*** thing!
+
+
+-----
+
+## In-Game Terms
+### Terms often used socially
+
+
+| Abbreviation/Terms | Definition |
+| ------------- |:-------------:|
+| AoE     |**area of effect**     |
+| DCD     |**defensive cooldown**     |
+| BiS     |**best in slot**: refers to optimal gear or item modifications      |
+| DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage  |
+| CC     |**crowd control** (e.g., stun)  |
+| DPS     |**damage per second**      |
+| HPS     |**healing per second* |
+|--|--|
+| GCD     |**global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD  |
+| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) |
+
+
+## SchematX's - Projects
+### Projects I'm working on or working with others
+
+ - [x] Rogue Loot Filter
+ - [ ] Mage Loot Filter
+ - [ ] Last Epoch Tools we often use(this will be updated over-time)
