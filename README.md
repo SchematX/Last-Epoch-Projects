@@ -1,9 +1,78 @@
-# TemperBunnys-LastEpochFilters
-Loot Filters for Last Epoch
+
+## Welcome
+### All of SchematX's Projects
+![img](https://upload.wikimedia.org/wikipedia/en/6/63/Last_Epoch_logo.png)
 
 
-To install these loot filters,
+Thank you for checking out my repo here. Take a look around, chances are, the reasons your here is because your either curious or it has something to do with [Last Epoch](https://lastepoch.com) which is "An upcoming hack and slash action role-playing game developed by American studio Eleventh Hour Games."
+
+Here, you will find some things that are extremely helpful to my friends and I. So I share them here with you!
+Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/TemperBunnys-LastEpochFilters/discussions).
+
+
+
+
+## SchematX's - Last Epoch Filters
+### Loot Filters for Last Epoch
+
+
+To install these loot filters manually or create your own using a notepad or [MS Code](https://code.visualstudio.com), 
 - head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
 - create a .xml filter file from notepad and name it whatever you want like "MyFilter.xml"
 - Save it in the "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
 - Fire up Last Epoch and head to your options folder or press shift+f and your done!
+
+
+-----
+
+## In-Game Terms
+### Terms often used socially
+
+| Abbreviation/Terms | Definition | 
+| -------- | -------- | -------- |
+| AoE     | **area of effect**     | - | DCD     | **defensive cooldown**     | 
+| BiS     | **best in slot**: refers to optimal gear or item modifications     | - | DoT     |** damage over time**; can also refer to characters/disciplines that focus on dealing damage     | 
+| CC     | **crowd control** (e.g., stun)     | - | HoT     | **healing over time**     | 
+| DPS     | **damage per second**     | - | HPS     | **healing per second**     | 
+| GCD     | **global cooldown**: when activated, most of your abilities trigger a global (or universal) cooldown of 1.5 seconds, during which time no other abilities can be used; some abilities do not respect the global cooldown (referred to as being “off the GCD”); Alacrity reduces the GCD     | - | LoS     | **line of sight**     | 
+| Proc     | when conditions are met to trigger a passive ability (e.g., generate a stack of Tactical Advantage) 
+
+
+## How to Install Loot Filters
+There are two ways you can install custom loot filters if and should you choose to do so without creating your own, which sometimes for some folks be a bit too much. So let me help you!
+
+To **manually** install these loot filters:
+- head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- create a .xml filter file from notepad and name it whatever you want like "MyFilter.xml"
+- Save it in the "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
+- Fire up Last Epoch and head to your options folder or press shift+f and your done!
+
+To copy and past a loot filter:
+- while in game, **hold ctrl** and press **F**
+- With your loot filter you've copied here which looks like this for a short example:
+
+            <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
+            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
+            <EquipmentType>WAND</EquipmentType>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>TWO_HANDED_POLEARM</EquipmentType>
+            <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
+            <EquipmentType>TWO_HANDED_SWORD</EquipmentType>
+            <EquipmentType>CATALYST</EquipmentType>
+            <EquipmentType>SHIELD</EquipmentType>
+          </type>
+This is a short code in which the loot filters you copy or create either way, will be longer, I just made it smaller since it would be a lot of coding. Just copy the code, head back in-game and choose the **+** button to create the loot filter.
+- Next, you would just select "**Past Clipboard Contents**" and you done! It will then begin to populate the code you have copied and your good to go.
+
+Something to keep in mind though is, if there should be an update to the loot filter itself, you will have to do the steps over again and delete the old. This method would probably be the easiest since its more of a ***copy and paste*** thing!
+
+
+## SchematX's - Projects
+### Projects I'm working on or working with others
+
+ - [x] Rogue Loot Filter
+ - [ ] Mage Loot Filter
+ - [ ] Last Epoch Tools we often use(this will be updated over-time)
