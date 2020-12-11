@@ -81,5 +81,5 @@ Something to keep in mind though is, if there should be an update to the loot fi
 ### Projects I'm working on or working with others
 
  - [x] Rogue Loot Filter
- - [ ] Mage Loot Filter
+ - [x] Mage Loot Filter
  - [ ] Last Epoch Tools we often use(this will be updated over-time)
