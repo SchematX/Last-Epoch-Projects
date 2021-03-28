@@ -1,4 +1,5 @@
-﻿<ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="utf-8"?>
+<ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
   <name>icueMike's Witch Filter</name>
   <filterIcon>1</filterIcon>
   <filterIconColor>5</filterIconColor>
@@ -185,6 +186,36 @@
             <EquipmentType>BOW</EquipmentType>
           </type>
           <subTypes />
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>false</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIDE</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
+          </type>
+          <subTypes>
+            <int>0</int>
+            <int>1</int>
+            <int>2</int>
+            <int>3</int>
+            <int>4</int>
+            <int>5</int>
+            <int>6</int>
+            <int>7</int>
+            <int>8</int>
+            <int>9</int>
+            <int>10</int>
+          </subTypes>
         </Condition>
       </conditions>
       <color>0</color>
@@ -662,6 +693,32 @@
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>4</comparsionValue>
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>false</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIDE</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>ONE_HANDED_AXE</EquipmentType>
+          </type>
+          <subTypes>
+            <int>2</int>
+            <int>0</int>
+            <int>1</int>
+            <int>3</int>
+            <int>4</int>
+            <int>6</int>
+            <int>5</int>
+          </subTypes>
         </Condition>
       </conditions>
       <color>0</color>
