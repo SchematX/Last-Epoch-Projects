@@ -56,6 +56,7 @@ This is a short code in which the loot filters you copy or create either way, wi
 
 Something to keep in mind though is, if there should be an update to the loot filter itself, you will have to do the steps over again and delete the old. This method would probably be the easiest since its more of a ***copy and paste*** thing!
 
+Head below to [view the Filter codes](https://github.com/icueMike/Last-Epoch-Projects#projects-im-working-on-or-working-with-others) or [Download](https://github.com/icueMike/Last-Epoch-Projects/releases) them and add it to your Last Epoch folder. How to do so is just below this.
 
 -----
 
@@ -80,6 +81,6 @@ Something to keep in mind though is, if there should be an update to the loot fi
 ## SchematX's - Projects
 ### Projects I'm working on or working with others
 
- - [x] Rogue Loot Filter
- - [x] Mage Loot Filter
+ - [x] [Witch Strict Loot Filter](https://github.com/icueMike/Last-Epoch-Projects/blob/main/Loot%20Filters/icueMike's%20Witch%20Filter%20-%200.8.1e.xml)
+ - [x] [Witch Strict-UBER Loot Filter](https://github.com/icueMike/Last-Epoch-Projects/blob/main/Loot%20Filters/icueMike's%20SEMI-UBER%20(Witch)-0.8.1e.xml)
  - [ ] Last Epoch Tools we often use(this will be updated over-time)
