@@ -4,19 +4,17 @@
 ![img](https://upload.wikimedia.org/wikipedia/en/6/63/Last_Epoch_logo.png)
 
 
+
 Thank you for checking out my repo here. Take a look around, chances are, the reasons your here is because your either curious or it has something to do with [Last Epoch](https://lastepoch.com) which is "An upcoming hack and slash action role-playing game developed by American studio Eleventh Hour Games."
 
 Here, you will find some things that are extremely helpful to my friends and I. So I share them here with you!
 Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/Last-Epoch-Projects/discussions).
 
-Head below to [view the Filter codes](https://github.com/icueMike/Last-Epoch-Projects#projects-im-working-on-or-working-with-others) or [Download](https://github.com/icueMike/Last-Epoch-Projects/releases) them and add it to your Last Epoch folder. How to do so is just below this.
----
-
 
 ## SchematX's - Last Epoch Filters
 ### Loot Filters for Last Epoch
 
-Please head too: [Loot Filters Basic Guide](https://forum.lastepoch.com/t/a-basic-guide-on-how-loot-filter-works-and-how-to-set-up-your-own-loot-filter/25389) written by [Heavy](https://forum.lastepoch.com/u/Heavy) before you get started, so you will know the basic nerdy talk in which is extreamly fairly simple.
+Please head to: [Loot Filters Basic Guide](https://forum.lastepoch.com/t/a-basic-guide-on-how-loot-filter-works-and-how-to-set-up-your-own-loot-filter/25389) written by [Heavy](https://forum.lastepoch.com/u/Heavy) before you get started, so you will know the basic nerdy talk in which is extreamly fairly simple.
 
 To install these loot filters manually or create your own using a notepad or [MS Code](https://code.visualstudio.com), 
 - head to your "AppData\LocalLow\Eleventh Hour Games\Last Epoch\Filters"
