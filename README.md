@@ -9,7 +9,8 @@ Thank you for checking out my repo here. Take a look around, chances are, the re
 Here, you will find some things that are extremely helpful to my friends and I. So I share them here with you!
 Please, get involved using the navigation above this area to help guide you to the right areas and be sure to join in on some discussions or post some thoughts and request's. [Join in on the discussions](https://github.com/SchematX/Last-Epoch-Projects/discussions).
 
-
+Head below to [view the Filter codes](https://github.com/icueMike/Last-Epoch-Projects#projects-im-working-on-or-working-with-others) or [Download](https://github.com/icueMike/Last-Epoch-Projects/releases) them and add it to your Last Epoch folder. How to do so is just below this.
+---
 
 
 ## SchematX's - Last Epoch Filters
@@ -55,8 +56,6 @@ This is a short code in which the loot filters you copy or create either way, wi
 - Next, you would just select "**Past Clipboard Contents**" and you done! It will then begin to populate the code you have copied and your good to go.
 
 Something to keep in mind though is, if there should be an update to the loot filter itself, you will have to do the steps over again and delete the old. This method would probably be the easiest since its more of a ***copy and paste*** thing!
-
-Head below to [view the Filter codes](https://github.com/icueMike/Last-Epoch-Projects#projects-im-working-on-or-working-with-others) or [Download](https://github.com/icueMike/Last-Epoch-Projects/releases) them and add it to your Last Epoch folder. How to do so is just below this.
 
 -----
 
